@@ -1,3 +1,5 @@
+flask
+requests
 langchain  
 langchain-core
 langchain-community
@@ -9,4 +11,4 @@ chromadb
 langchain-groq 
 python-dotenv
 typesense
-pandass
+pandas
